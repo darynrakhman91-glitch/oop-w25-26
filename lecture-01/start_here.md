@@ -6,8 +6,7 @@
 
 ### Task 1
 * Fork this repository
-* go to students folder
-* Create a folder `[index_number]-[your_name]`
+* Create a folder `[index_number]-[your_name]` inside students folder
 * inside that folder create `task-01.md`
 * create your (personal) website in lovable.com
 * publish it
