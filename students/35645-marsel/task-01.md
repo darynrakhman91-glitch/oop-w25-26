@@ -1,2 +1,2 @@
-#my website
+#My website
 https://marsels-game-nexus.lovable.app
