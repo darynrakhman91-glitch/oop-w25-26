@@ -1,7 +1,7 @@
 # Object Oriented Programming w25-26
 
 ## Initial requirements:
-* Slack account on
+* Slack account (Please join: https://join.slack.com/t/w2526-oop/shared_invite/zt-3eowq0xxt-9uwLaY2ANgdT6FOiJKLDpg)
 * GitHub account
 * Gmail account
 * Medium.org account
