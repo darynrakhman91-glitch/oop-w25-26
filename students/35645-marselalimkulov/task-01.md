@@ -1,2 +1,2 @@
 # my website
-https://joy-forge-center.lovable.app
+https://marsels-game-nexus.lovable.app/
