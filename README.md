@@ -32,3 +32,4 @@ git push origin main
 ```
 git status
 ```
+![QR-код сайта](qrcode.png)
