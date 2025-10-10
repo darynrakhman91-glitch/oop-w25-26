@@ -1,3 +1,4 @@
+
 # my qr code generator
  code-pixie-gen.lovable.app
 
